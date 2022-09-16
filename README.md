@@ -6,3 +6,4 @@ This project was created with:
 * Python version 3.10.0
 * HTML 5
 * CSS 3
+* JavaScript ES6
